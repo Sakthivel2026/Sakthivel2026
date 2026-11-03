@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/assets/coding.gif" alt="Coding animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/assets/coding.gif" alt="Coding animation" width="60%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=SAKTHIVEL%20K&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=94a3b8" width="100%"/>
 
