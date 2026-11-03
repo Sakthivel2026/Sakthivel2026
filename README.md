@@ -4,9 +4,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=200&section=header&text=SAKTHIVEL%20K&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=SAKTHIVEL%20K&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=75&descSize=16&descColor=94a3b8" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=2" width="260" height="2"/>
+
+<br/><br/>
 
 <a href="https://portfolio-olive-eta-16.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+modern+web+applications;React.js+%7C+Next.js+%7C+Node.js;Clean+architecture+%2C+practical+solutions;Always+shipping%2C+always+learning" alt="Typing SVG" />
