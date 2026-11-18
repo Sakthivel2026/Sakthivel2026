@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/Sakthivel-profile-banner.svg" alt="Sakthivel K - Full-Stack Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/readme_banner.svg" alt="Sakthivel K - Full-Stack Developer" width="100%"/>
 
 <br/>
 
