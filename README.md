@@ -40,15 +40,7 @@ I like understanding how a system fits together — how the frontend talks to th
 <i>"A warm cup, a golden sky, and a clean terminal — peace isn't the absence of bugs, it's knowing you'll fix them."</i>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/error.gif" alt="Never-ending error" width="100%"/>
-<br/><br/>
-<b>The Never-Ending Story</b><br/>
-<i>"Fix one bug, ship one feature, meet two new bugs. <code>while (alive) { code(); break(); fix(); }</code>"</i>
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="./vibe_coding.gif" alt="Vibe coding" width="100%"/> <br/><br/> <b>The Vibe Coder</b><br/> <i>"Feet up, flow on, vibes loaded — I don't chase deadlines, I let the code find its rhythm."</i> </td> </tr> </table> <br/>
 
 ## 🚀 Currently Building & Learning
 
