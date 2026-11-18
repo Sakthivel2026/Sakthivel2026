@@ -34,7 +34,7 @@ I like understanding how a system fits together — how the frontend talks to th
 <i>"When the world goes quiet, the best code starts compiling. My commits have a midnight timestamp for a reason."</i>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/peace.gif" alt="Peaceful coding" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/comfort.gif" alt="Peaceful coding" width="100%"/>
 <br/><br/>
 <b>The Calm Coder</b><br/>
 <i>"A warm cup, a golden sky, and a clean terminal — peace isn't the absence of bugs, it's knowing you'll fix them."</i>
