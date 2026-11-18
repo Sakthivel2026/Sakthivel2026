@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://portfolio-olive-eta-16.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+modern+web+applications;React.js+%7C+Next.js+%7C+Node.js;Clean+architecture%2C+practical+solutions;Always+shipping%2C+always+learning" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
