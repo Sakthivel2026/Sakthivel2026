@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/readme_banner.svg" alt="Sakthivel K - Full-Stack Developer" width="100%"/>
 
-<br/>
-
 <br/><br/>
 
 <a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
@@ -17,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a full-stack developer who enjoys turning ideas into working products — from the database schema to the last pixel of the UI. Right now my day-to-day is built around **React.js**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, and I'm steadily sharpening those skills through real projects rather than tutorials alone.
+I'm a full-stack developer who enjoys turning ideas into working products — from the database schema to the last pixel of the UI. Right now my day-to-day is built around **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**, and I'm steadily sharpening those skills through real projects rather than tutorials alone.
 
 I like understanding how a system fits together — how the frontend talks to the API, how the API talks to the database, and where things tend to break in between. Still learning, still building, and genuinely enjoying the process.
 
@@ -36,125 +34,45 @@ I like understanding how a system fits together — how the frontend talks to th
 <i>"A warm cup, a golden sky, and a clean terminal — peace isn't the absence of bugs, it's knowing you'll fix them."</i>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="./vibe_coding.gif" alt="Vibe coding" width="100%"/> <br/><br/> <b>The Vibe Coder</b><br/> <i>"Feet up, flow on, vibes loaded — I don't chase deadlines, I let the code find its rhythm."</i> </td> </tr> </table> <br/>
-
-## 🚀 Currently Building & Learning
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-**Backend**
-
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
+<img src="./vibe_coding.gif" alt="Vibe coding" width="100%"/>
+<br/><br/>
+<b>The Vibe Coder</b><br/>
+<i>"Feet up, flow on, vibes loaded — I don't chase deadlines, I let the code find its rhythm."</i>
 </td>
 </tr>
 </table>
-
-Also deepening my grip on **REST APIs**, **authentication flows**, **full-stack architecture**, and **third-party API integration**.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <table width="100%">
-<tr><td valign="top" width="50%">
-
-**Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database**
-<br/>
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td><td valign="top" width="50%">
-
-**Programming**
-<br/>
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Mobile**
-<br/>
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Deployment**
-<br/>
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-</td></tr>
-</table>
-
-<br/>
-
-## ⭐ Featured Project
-
-<table width="100%">
 <tr>
-<td>
+<td valign="top" width="50%">
 
-### QuickCart
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /><br/><br/>
 
-A modern e-commerce web application built with **Next.js** — covering the full shopping experience from product discovery to order placement, plus seller-side functionality.
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![Inngest](https://img.shields.io/badge/-Inngest-000000?style=flat-square)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-**Key Features**
-- Product browsing & detailed product pages
-- Shopping cart and order creation flow
-- User authentication and address management
-- Seller-side product & order handling
+</td>
+<td valign="top" width="50%">
 
-<a href="https://github.com/Sakthivel2026/QuickCart"><img src="https://img.shields.io/badge/GitHub%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
-<a href="https://quickyyy-beryl.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+**Programming**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,dart,swift" /><br/><br/>
+
+**Mobile** &nbsp;·&nbsp; <sub>Flutter &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Swift</sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,swift" /><br/><br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br/><br/>
+
+**Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
 
 </td>
 </tr>
@@ -162,36 +80,75 @@ A modern e-commerce web application built with **Next.js** — covering the full
 
 <br/>
 
-## 📂 Other Projects
+## ⭐ Featured Projects
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-**Terminal Chat**
+<!-- QuickCart -->
+<td width="33%" valign="top">
 
-A real-time command-line chat application built on Node.js TCP sockets, supporting multi-user communication with authentication.
+### 🛒 QuickCart
+**AI-Powered E-Commerce Platform**
+
+A full-stack e-commerce platform with an OpenAI-powered shopping assistant for a conversational buying experience.
+
+- AI assistant for smart search, recommendations, comparisons & cart management
+- Secure authentication with role-based seller dashboards
+- Product management and complete order processing
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+<a href="https://github.com/Sakthivel2026/QuickCart"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+<a href="https://quickyyy-beryl.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+
+</td>
+
+<!-- Terminal Chat -->
+<td width="33%" valign="top">
+
+### 💬 Terminal Chat
+**Real-Time CLI Messaging Application**
+
+A multi-user, real-time command-line chat app built on raw Node.js TCP sockets — no external frameworks.
+
+- Server-side auth state machine (menu, register, login, chat)
+- Broadcast, active-users list & private messaging (`/pm`)
+- bcrypt-hashed SQLite auth, exposed remotely via Cloudflare Tunnel / ngrok
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TCP](https://img.shields.io/badge/-TCP%20Sockets-0f172a?style=flat-square)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-338033?style=flat-square)
 
-`TCP Sockets` `Authentication` `Multi-user`
-
-[GitHub Repository](https://github.com/Sakthivel2026/terminal-chat)
+<a href="https://github.com/Sakthivel2026/terminal-chat"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
 
 </td>
-<td width="50%" valign="top">
 
-**Portfolio Website**
+<!-- Foodie -->
+<td width="33%" valign="top">
 
-My personal developer portfolio, showcasing my projects and background.
+### 🍔 Foodie
+**Food Delivery App**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+A full-stack food delivery app with cart, checkout, payments and live order tracking.
 
-[Visit Portfolio](https://portfolio-olive-eta-16.vercel.app/)
+- JWT auth with single-use rotating refresh tokens & token-family revocation
+- Razorpay payments with server-side HMAC verification and DB-driven pricing
+- Real-time tracking via Socket.IO & OpenStreetMap, backed by 48 automated tests and GitHub Actions CI
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+<a href="https://github.com/Sakthivel2026/Foodie"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
 
 </td>
+
 </tr>
 </table>
 
@@ -216,7 +173,7 @@ My personal developer portfolio, showcasing my projects and background.
           │
         Express.js
           │
-        MongoDB
+   MongoDB · PostgreSQL
           │
    Full-Stack Applications
 ```
