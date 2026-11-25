@@ -1,4 +1,4 @@
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
 <div align="center">
 
@@ -6,74 +6,191 @@
 
 <br/><br/>
 
-<a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-0a1220?style=for-the-badge&logo=github&logoColor=00e5ff" /></a>
-<a href="https://linkedin.com/in/sakthivel-k-3a904b372"><img src="https://img.shields.io/badge/LinkedIn-0a1220?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
-<a href="https://portfolio-olive-eta-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a1220?style=for-the-badge&logo=vercel&logoColor=00e5ff" /></a>
-<a href="mailto:sakthivel.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-0a1220?style=for-the-badge&logo=gmail&logoColor=00e5ff" /></a>
+<a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+<a href="https://linkedin.com/in/sakthivel-k-3a904b372"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+<a href="https://portfolio-olive-eta-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+<a href="mailto:sakthivel.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
-<div align="center"><img src="./assets/h_about.svg" alt="About Me" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
+## 👋 About Me
 
 I'm a full-stack developer who enjoys turning ideas into working products — from the database schema to the last pixel of the UI. Right now my day-to-day is built around **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**, and I'm steadily sharpening those skills through real projects rather than tutorials alone.
 
 I like understanding how a system fits together — how the frontend talks to the API, how the API talks to the database, and where things tend to break in between. Still learning, still building, and genuinely enjoying the process.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/night_owl.gif" alt="Night owl coding" width="32%"/>
-<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/comfort.gif" alt="Peaceful coding" width="32%"/>
-<img src="./vibe_coding.gif" alt="Vibe coding" width="32%"/>
-<br/>
-<img src="./assets/personas.svg" alt="The Night Owl · The Calm Coder · The Vibe Coder" width="100%"/>
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<div align="center"><img src="./assets/h_stack.svg" alt="Tech Stack" width="100%"/></div>
-
-<p align="center"><img src="./assets/pill_frontend.svg" alt="Frontend" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind"/></p>
-<p align="center"><img src="./assets/pill_backend.svg" alt="Backend" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Node.js, Express, Firebase"/></p>
-<p align="center"><img src="./assets/pill_database.svg" alt="Database" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL"/></p>
-<p align="center"><img src="./assets/pill_programming.svg" alt="Programming" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=java,js,python,dart,swift" alt="Java, JavaScript, Python, Dart, Swift"/></p>
-<p align="center"><img src="./assets/pill_mobile.svg" alt="Mobile" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=flutter,react,swift" alt="Flutter, React Native, Swift"/> &nbsp; <sub>Flutter · React Native · Swift</sub></p>
-<p align="center"><img src="./assets/pill_tools.svg" alt="Tools" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman"/></p>
-<p align="center"><img src="./assets/pill_deployment.svg" alt="Deployment" height="48"/> &nbsp; <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/> &nbsp; <img src="https://img.shields.io/badge/-Render-0a1220?style=for-the-badge&logo=render&logoColor=00e5ff" alt="Render"/></p>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<div align="center"><img src="./assets/h_projects.svg" alt="Featured Projects" width="100%"/></div>
-
-<div align="center">
-<a href="https://github.com/Sakthivel2026/QuickCart"><img src="./assets/card_quickcart.svg" alt="QuickCart - AI-Powered E-Commerce Platform" width="32%"/></a>
-<a href="https://github.com/Sakthivel2026/terminal-chat"><img src="./assets/card_terminalchat.svg" alt="Terminal Chat - Real-Time CLI Messaging Application" width="32%"/></a>
-<a href="https://github.com/Sakthivel2026/Foodie"><img src="./assets/card_foodie.svg" alt="Foodie - Food Delivery App" width="32%"/></a>
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/night_owl.gif" alt="Night owl coding" width="100%"/>
+<br/><br/>
+<b>The Night Owl</b><br/>
+<i>"When the world goes quiet, the best code starts compiling. My commits have a midnight timestamp for a reason."</i>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/comfort.gif" alt="Peaceful coding" width="100%"/>
+<br/><br/>
+<b>The Calm Coder</b><br/>
+<i>"A warm cup, a golden sky, and a clean terminal — peace isn't the absence of bugs, it's knowing you'll fix them."</i>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="./vibe_coding.gif" alt="Vibe coding" width="100%"/>
+<br/><br/>
+<b>The Vibe Coder</b><br/>
+<i>"Feet up, flow on, vibes loaded — I don't chase deadlines, I let the code find its rhythm."</i>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/Sakthivel2026/QuickCart"><img src="https://img.shields.io/badge/QuickCart-Repository-0a1220?style=for-the-badge&logo=github&logoColor=00e5ff" /></a>
-<a href="https://quickyyy-beryl.vercel.app/"><img src="https://img.shields.io/badge/QuickCart-Live%20Demo-0a1220?style=for-the-badge&logo=vercel&logoColor=00e5ff" /></a>
-<a href="https://github.com/Sakthivel2026/terminal-chat"><img src="https://img.shields.io/badge/Terminal%20Chat-Repository-0a1220?style=for-the-badge&logo=github&logoColor=00e5ff" /></a>
-<a href="https://github.com/Sakthivel2026/Foodie"><img src="https://img.shields.io/badge/Foodie-Repository-0a1220?style=for-the-badge&logo=github&logoColor=00e5ff" /></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
-<img src="./assets/divider.svg" width="100%"/>
+## 🛠️ Tech Stack
 
-<div align="center"><img src="./assets/h_build.svg" alt="What I Build" width="100%"/></div>
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<div align="center"><img src="./assets/build.svg" alt="Full-Stack Web Apps, E-Commerce Applications, REST APIs, Real-Time Applications, Developer Tools, Mobile Applications" width="100%"/></div>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /><br/><br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+</td>
+<td valign="top" width="50%">
+
+**Programming**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,dart,swift" /><br/><br/>
+
+**Mobile** &nbsp;·&nbsp; <sub>Flutter &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Swift</sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,swift" /><br/><br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br/><br/>
+
+**Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
+## ⭐ Featured Projects
+
+<table width="100%">
+<tr>
+
+<!-- QuickCart -->
+<td width="33%" valign="top">
+
+### 🛒 QuickCart
+**AI-Powered E-Commerce Platform**
+
+A full-stack e-commerce platform with an OpenAI-powered shopping assistant for a conversational buying experience.
+
+- AI assistant for smart search, recommendations, comparisons & cart management
+- Secure authentication with role-based seller dashboards
+- Product management and complete order processing
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+<a href="https://github.com/Sakthivel2026/QuickCart"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+<a href="https://quickyyy-beryl.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+
+</td>
+
+<!-- Terminal Chat -->
+<td width="33%" valign="top">
+
+### 💬 Terminal Chat
+**Real-Time CLI Messaging Application**
+
+A multi-user, real-time command-line chat app built on raw Node.js TCP sockets — no external frameworks.
+
+- Server-side auth state machine (menu, register, login, chat)
+- Broadcast, active-users list & private messaging (`/pm`)
+- bcrypt-hashed SQLite auth, exposed remotely via Cloudflare Tunnel / ngrok
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TCP](https://img.shields.io/badge/-TCP%20Sockets-0f172a?style=flat-square)
+![bcrypt](https://img.shields.io/badge/-bcrypt-338033?style=flat-square)
+
+<a href="https://github.com/Sakthivel2026/terminal-chat"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+
+</td>
+
+<!-- Foodie -->
+<td width="33%" valign="top">
+
+### 🍔 Foodie
+**Food Delivery App**
+
+A full-stack food delivery app with cart, checkout, payments and live order tracking.
+
+- JWT auth with single-use rotating refresh tokens & token-family revocation
+- Razorpay payments with server-side HMAC verification and DB-driven pricing
+- Real-time tracking via Socket.IO & OpenStreetMap, backed by 48 automated tests and GitHub Actions CI
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+<a href="https://github.com/Sakthivel2026/Foodie"><img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
+## 💡 What I Build
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">🌐<br/><b>Full-Stack Web Apps</b></td>
+<td width="33%" align="center">🛒<br/><b>E-Commerce Applications</b></td>
+<td width="33%" align="center">🔌<br/><b>REST APIs</b></td>
+</tr>
+<tr>
+<td width="33%" align="center">⚡<br/><b>Real-Time Applications</b></td>
+<td width="33%" align="center">🛠️<br/><b>Developer Tools</b></td>
+<td width="33%" align="center">📱<br/><b>Mobile Applications</b></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="./assets/h_connect.svg" alt="Connect With Me" width="100%"/>
-
-<a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-Sakthivel2026-0a1220?style=for-the-badge&logo=github&logoColor=00e5ff" /></a>
-<a href="https://linkedin.com/in/sakthivel-k-3a904b372"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a1220?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
-<a href="https://portfolio-olive-eta-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0a1220?style=for-the-badge&logo=vercel&logoColor=00e5ff" /></a>
-<a href="mailto:sakthivel.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-0a1220?style=for-the-badge&logo=gmail&logoColor=00e5ff" /></a>
+<a href="https://github.com/Sakthivel2026"><img src="https://img.shields.io/badge/GitHub-Sakthivel2026-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+<a href="https://linkedin.com/in/sakthivel-k-3a904b372"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+<a href="https://portfolio-olive-eta-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+<a href="mailto:sakthivel.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
 
 <br/><br/>
 
@@ -81,8 +198,8 @@ I like understanding how a system fits together — how the frontend talks to th
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0a1220&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
