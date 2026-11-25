@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Sakthivel2026/Sakthivel2026/main/readme_banner.svg" alt="Sakthivel K - Full-Stack Developer" width="100%"/>
@@ -12,6 +14,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
 ## 👋 About Me
 
@@ -44,63 +48,45 @@ I like understanding how a system fits together — how the frontend talks to th
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 <table width="100%">
-<tr><td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
-**Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /><br/><br/>
 
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
 
-**Database**
-<br/>
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
-**Programming**
-<br/>
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Programming**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,dart,swift" /><br/><br/>
 
-**Mobile**
-<br/>
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+**Mobile** &nbsp;·&nbsp; <sub>Flutter &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Swift</sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,swift" /><br/><br/>
 
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br/><br/>
 
-**Deployment**
-<br/>
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+**Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
 ## ⭐ Featured Projects
 
@@ -176,33 +162,7 @@ A full-stack food delivery app with cart, checkout, payments and live order trac
 
 <br/>
 
-## 🧭 Development Journey
-
-<div align="center">
-
-```
-   Frontend Fundamentals
-          │
-      JavaScript
-          │
-        React.js
-          │
-        Next.js
-          │
-   ── Backend Fundamentals ──
-          │
-        Node.js
-          │
-        Express.js
-          │
-   MongoDB · PostgreSQL
-          │
-   Full-Stack Applications
-```
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
 ## 💡 What I Build
 
@@ -221,20 +181,7 @@ A full-stack food delivery app with cart, checkout, payments and live order trac
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakthivel2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthivel2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakthivel2026&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8" />
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
 
 ## 🤝 Connect With Me
 
@@ -251,6 +198,8 @@ A full-stack food delivery app with cart, checkout, payments and live order trac
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=3" width="100%"/>
